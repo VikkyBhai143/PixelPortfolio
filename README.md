@@ -1,4 +1,5 @@
-🎨 PixelPortfolio
+🎨 **PixelPortfolio**
+
 PixelPortfolio is a modern, theme-toggleable portfolio template crafted with a pixel art-inspired UI and powered by cutting-edge web technologies. Built to be both aesthetically unique and technically robust, it’s perfect for developers and designers who want to showcase their projects with a nostalgic yet professional vibe.
 
 🔧 Tech Stack
