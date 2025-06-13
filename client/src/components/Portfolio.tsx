@@ -66,16 +66,20 @@ export default function Portfolio() {
     <div className="min-h-screen">
       {/* Theme Toggle */}
       <motion.div 
-        className="fixed top-4 right-4 z-50"
-        whileHover={{ scale: 1.1 }}
-        whileTap={{ scale: 0.9 }}
+        className="fixed top-20 right-4 z-50"
+        whileHover={{ scale: 1.05 }}
+        whileTap={{ scale: 0.95 }}
+        initial={{ opacity: 0.7 }}
+        whileHover={{ opacity: 1 }}
       >
         <button
           onClick={toggleTheme}
-          className="pixel-border bg-neon-green hover:bg-neon-pink text-pixel-black px-4 py-2 font-pixel text-xs transition-colors duration-300"
+          className="w-12 h-12 rounded-full bg-dark-gray/80 backdrop-blur-sm border-2 border-neon-green/50 hover:border-neon-pink flex items-center justify-center transition-all duration-300 shadow-lg hover:shadow-neon-green/20"
         >
-          {theme === "light" ? <Moon className="inline w-4 h-4" /> : <Sun className="inline w-4 h-4" />}
-          <span className="ml-2">TOGGLE</span>
+          {theme === "light" ? 
+            <Moon className="w-5 h-5 text-neon-cyan" /> : 
+            <Sun className="w-5 h-5 text-neon-yellow" />
+          }
         </button>
       </motion.div>
 
