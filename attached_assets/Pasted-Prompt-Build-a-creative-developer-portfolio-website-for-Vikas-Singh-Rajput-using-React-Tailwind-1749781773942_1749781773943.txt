@@ -1,0 +1,123 @@
+Prompt:
+
+Build a creative developer portfolio website for Vikas Singh Rajput, using React + TailwindCSS with a mixed aesthetic of pixel art and doodle illustrations. The layout should be interactive, fun, and responsive — like navigating a digital sketchbook + retro RPG screen.
+
+🎨 Style Guide:
+Use pixelated UI components (borders, sprites, 8-bit fonts) and hand-drawn doodles (squiggles, arrows, frames).
+
+Fonts: "Press Start 2P" for headings, Inter or hand-drawn for body.
+
+Use animated elements from Framer Motion.
+
+Color scheme: Retro console (grays, neons) with off-white sketchbook tones.
+
+🧱 Page Structure:
+🧍 Hero Section
+Pixel avatar of Vikas waving or walking
+
+Tagline: "AI-Powered Full Stack Dev | Building Inclusive Technology"
+
+Retro pixel glitch & doodle-style sun/star background
+
+🧠 About Me
+Floating note card with pixel border & hand-drawn arrows
+
+Text:
+
+vbnet
+Copy
+Edit
+I'm Vikas Singh Rajput, an AI enthusiast & full-stack developer from Jabalpur. I use AI, computer vision & accessible tech to create solutions that matter.
+Currently pursuing BTech in CSE at Parul University.
+🏫 Education
+Styled like an RPG quest log or pixel book UI
+
+Timeline entries:
+
+Parul University (2022–2026) – BTech CSE – CGPA: 7.21
+
+St. Xavier’s High School – ISC PCM – 61.4%
+
+💼 Skills
+Tech stack cards in pixel + doodle mashup style
+
+Python 🐍
+
+JavaScript 🟨
+
+Flask 🔥
+
+React ⚛️
+
+TailwindCSS 🌬️
+
+pytesseract, OpenCV, Liblouis
+
+🚀 Projects
+Show in a GameBoy screen UI or pixel grid console:
+
+Sign Language Translator
+
+Python + OpenCV
+
+Real-time ASL detection + TTS
+
+GitHub
+
+BrailleBridge
+
+Flask, React, pytesseract
+
+OCR + Braille converter for the visually impaired
+
+GitHub
+
+🏅 Certifications (Testimonial Room)
+Design like a trophy shelf or certificate gallery with pixel frames
+
+Each icon opens a new tab to view:
+
+🏆 REST API – HackerRank
+
+🐍 Python (Basic) – HackerRank
+
+🔍 Problem Solving – HackerRank
+
+🌐 Networking Essentials – Cisco
+
+📬 Contact
+Pixel dialog box with floating pencil or envelope animation
+
+Include the following icons and links:
+
+📧 Email: vikasrajput3270@gmail.com
+
+🔗 LinkedIn
+
+💻 GitHub
+
+🧠 HackerRank
+
+🛠️ Tech Stack for Website
+React + TailwindCSS
+
+Framer Motion for subtle animations
+
+Pixel font (Press Start 2P), Doodle illustrations (SVG or Lottie)
+
+Fully responsive
+
+Light/Dark toggle:
+
+Light = paper doodle
+
+Dark = CRT pixel display
+
+🎁 Optional Bonuses:
+Play retro background chiptune (toggle option)
+
+Avatar follows cursor or walks across sections
+
+Fun “Konami Code” Easter Egg
+
+Loading screen styled like a GameBoy boot logo
